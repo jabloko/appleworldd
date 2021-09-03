@@ -1,2 +1,2 @@
 # appleworldd
-magazine
+magazinee
